@@ -8,6 +8,8 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
+highlightCurrentMenuArea = true
+
 [header]
   layout = "fixed-fill-blur"
 
