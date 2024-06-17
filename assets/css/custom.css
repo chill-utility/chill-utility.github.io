@@ -1,0 +1,61 @@
+.logo {
+  height: 42px;
+  width: 35px;
+}
+
+.homepage-prose {
+  max-width: 125ch !important;
+}
+
+span.absolute.not-prose > a {
+  display: none;
+}
+
+.big-idea-title {
+  margin-top: 0;
+  margin-bottom: 2px;
+  font-size: 1.075rem;
+}
+
+.big-idea-desc {
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+#site-footer * {
+  text-align: center;
+  justify-content: center;
+}
+
+@media (max-width: 853px) {
+  .big-idea-title {
+    margin-top: 15px;
+    line-height: 128%;
+  }
+
+  .big-idea-desc {
+    text-align: left;
+  }
+}
+
+.creative .creative-icon {
+  font-size: 4rem;
+}
+
+@media (min-width: 853px) {
+  .creative {
+    max-width: 40%;
+  }
+
+  .flip-flop-big-idea-article .creative {
+    order: 2;
+  }
+
+  .big-idea-title {
+    margin-bottom: 15px;
+  }
+
+  .homepage-big-ideas-left-text-align {
+    text-align: left;
+  }
+}

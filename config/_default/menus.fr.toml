@@ -1,0 +1,11 @@
+# * ... Footer
+
+[[footer]]
+  name = "Conditions générales d'utilisation"
+  url = "/fr/conditions-generales-utilisation"
+  weight = 10
+
+[[footer]]
+  name = "Politique de confidentialité"
+  url = "/fr/politique-confidentialite"
+  weight = 20

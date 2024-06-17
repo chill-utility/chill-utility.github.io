@@ -1,18 +1,18 @@
 title = "Chill Utility"
-languageCode = "en"
-languageName = "English"
+languageCode = "fr"
+languageName = "Français"
 weight = 1
 
 [params]
-  description = "Manage your Discord server in record time. Welcome to the next evolution in community building with Chill Utility! 🚀"
-  displayName = "EN"
-  isoCode = "en"
+  description = "Gérez votre serveur Discord en un clin d'œil. Découvrez la nouvelle ère de la gestion de communauté avec Chill Utility ! 🚀"
+  displayName = "FR"
+  isoCode = "fr"
   weight = 1
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logo.webp"
   secondaryLogo = "img/logo.webp"
-  copyright = "Chill Utility · Made with 💜"
+  copyright = "Chill Utility · Réalisé avec 💜"
 
 [author]
   name = "Chill Utility Team"
