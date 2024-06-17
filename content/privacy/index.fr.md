@@ -27,6 +27,8 @@ Le site internet ne récolte aucune donnée personnelle à l'heure actuelle.
 Il s'agit d'un site vitrine, dont le fonctionnement ne dépend d'aucun cookie ni d'aucun outil de suivi.  
 Tout changement éventuel sera indiqué dans une mise à jour de la présente Politique de Confidentialité.
 
+L'intégralité du code source du site est disponible à cette adresse : https://github.com/chill-utility/chill-utility.github.io
+
 🚧 WIP concernant l'application : Détail des intents et des enregistrements en DB
 
 ---
