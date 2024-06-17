@@ -65,6 +65,10 @@ span.absolute.not-prose > a {
   display: none;
 }
 
+.logo {
+  padding: 3px;
+}
+
 @media (max-width: 853px) {
   .big-idea-title {
     margin-top: 15px;
