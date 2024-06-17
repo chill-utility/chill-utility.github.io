@@ -1,0 +1,25 @@
+{{ if .IsNamedParams }}
+  {{ $.Scratch.Set "cardColor" (.Get "cardColor") }}
+  {{ $.Scratch.Set "iconColor" (.Get "iconColor") }}
+  {{ $.Scratch.Set "textColor" (.Get "textColor") }}
+{{ end }}
+
+
+<div
+  {{ if not ($.Scratch.Get "cardColor") }}
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  {{ else }}
+    class="flex px-4 py-3 rounded-md"
+    style="background-color: {{ $.Scratch.Get "cardColor" }}"
+  {{ end }}>
+
+  <span
+    {{ if not ($.Scratch.Get "textColor") }}
+      class="dark:text-neutral-300"
+    {{ else }}
+      style="color: {{ $.Scratch.Get "textColor" }}"
+    {{ end }}>
+    
+    {{- .Inner | markdownify -}}
+  </span>
+</div>

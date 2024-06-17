@@ -1,15 +1,21 @@
 ---
 title: 'The future is here'
 description:
-  'Manage your Discord server in record time. Welcome to the next evolution in community building with Chill Utility! 🚀'
+  'Manage your Discord servers in record time. Welcome to the next evolution in community building with Chill Utility! 🚀'
 images:
   - /og/homepage-og-banner.png
 ---
 
-# Manage your Discord server in record time 🚀
+# Manage your Discord servers in record time 🚀
 
-**Welcome to the next evolution in community building with Chill Utility!**  
-**The Discord bot designed to be your trusted companion that belongs to and enriches your servers.**
+<div class="hell text-lg backdrop-blur justify-center">
+
+  {{< alert cardColor="#4c1d9580" >}}
+  **Future with Chill Utility awaits...**  
+  **Step in, meet your new trusted bot companion for your servers!**
+  {{< /alert >}}
+
+</div>
 
 <div class="homepage-head-section-boxes-wrapper w-full grid gap-4 md:grid-cols-3">
   <article
@@ -36,7 +42,7 @@ images:
     class="min-w-full min-h-full border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-lg relative backdrop-blur px-6 py-4 text-left">
     <h2
       class="homepage-head-section-box-title font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">
-      🫵 Made for YOU
+      🫵 Tailored for YOU
     </h2>
     <p class="homepage-head-section-box-desc py-1 prose dark:prose-invert">
       Evolves with community input, building a strong bond with our users.
@@ -59,7 +65,7 @@ Try for free today
     </aside>
     <div class="homepage-big-ideas-left-text-align flex-1 flex flex-col">
       <p class="big-idea-title"><strong>We're not just about features and tech: we're about community</strong></p>
-      <p class="big-idea-desc">With Chill Utility, every voice matters. <strong>We invite you to join us in shaping the future of <i>our</i> bot.</strong> Share your ideas, engage in discussions, and <strong>together, let's create the best possible product.</strong></p>
+      <p class="big-idea-desc">With Chill Utility, every voice matters. <strong>We invite you to join us in shaping the future of <i>our</i> Discord bot.</strong> Share your ideas, engage in discussions, and <strong>together, let's create the best possible product.</strong></p>
     </div>
   </article>
 
@@ -86,7 +92,8 @@ Try for free today
   {{< /button >}}
   <p class="mt-2 mb-0 text-sm">⚡ Instant access</p>
 
-  <h3>Join us on this journey as we redefine what a Discord bot can be.<br class="mb-5px" />Embrace simplicity, without compromise.</h3>
+  <h3 class="homepage-last-cta-h3">Become an actor with us on this journey as we redefine what a Discord bot can be.
+  <h4 class="mt-10px mb-0">Embrace simplicity, without compromise.</h3>
 </section>
 
 <script src="https://kit.fontawesome.com/575c2fb10a.js" crossorigin="anonymous"></script>

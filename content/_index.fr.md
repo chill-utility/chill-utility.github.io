@@ -1,15 +1,21 @@
 ---
 title: "Le futur, c'est ici"
 description:
-  "Gérez votre serveur Discord en un clin d'œil. Découvrez la nouvelle ère de la gestion de communauté avec Chill Utility ! 🚀"
+  "Gérez vos serveurs Discord en un clin d'œil. Découvrez la nouvelle ère de la gestion de communauté avec Chill Utility ! 🚀"
 images:
   - /og/homepage-og-banner.png
 ---
 
-# Gérez votre serveur Discord en un clin d’œil 🚀
+# Gérez vos serveurs Discord en un clin d’œil 🚀
 
-**Découvrez la nouvelle ère de la gestion de communauté avec Chill Utility !**  
-**Le bot Discord conçu pour être votre compagnon de confiance, qui apportera une valeur exceptionnelle à votre serveur.**
+<div class="hell text-lg backdrop-blur justify-center">
+
+  {{< alert cardColor="#4c1d9580" >}}
+  **Le futur est en Chill Utility…**  
+  **Votre bot et compagnon de confiance pour vos serveurs !**
+  {{< /alert >}}
+
+</div>
 
 <div class="homepage-head-section-boxes-wrapper w-full grid gap-4 md:grid-cols-3">
   <article
@@ -79,14 +85,15 @@ Je rejoins le mouvement
 
 <section id="join-us" class="homepage-join-us-section">
   <img src="/img/logo.webp" width="50px" height="50px" class="my-0 mb-2 nozoom m-auto" alt="" aria-hidden="true" />
-  <h2 class="mt-0">Apportons de la valeur à votre serveur dès aujourd'hui !</h2>
+  <h2 class="mt-0">Apportons de la valeur à vos serveurs dès aujourd'hui !</h2>
 
   {{< button href="https://discord.com/oauth2/authorize?client_id=1225159231523655860" target="_blank" >}}
   Je rejoins le mouvement
   {{< /button >}}
   <p class="mt-2 mb-0 text-sm">⚡ Accès immédiat</p>
 
-  <h3>Rejoignez-nous dans cette aventure où nous redéfinissons ce qu'un bot Discord peut être.<br class="mb-5px" />Redécouvrez ce qu'est la simplicité, sans compromis.</h3>
+  <h3 class="homepage-last-cta-h3">Rejoignez-nous dans cette aventure où nous redéfinissons ce qu'un bot Discord peut être.</h3>
+  <h4 class="mt-10px mb-0">Il est enfin l'heure de redéfinir la simplicité, sans compromis.</h4>
 </section>
 
 <script src="https://kit.fontawesome.com/575c2fb10a.js" crossorigin="anonymous"></script>

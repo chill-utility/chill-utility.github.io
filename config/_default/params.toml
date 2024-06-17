@@ -22,7 +22,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background"
-  homepageImage = "img/bg.svg"
+  homepageImage = "img/bg.webp"
   showRecent = false
   showRecentItems = 5
   showMoreLink = false

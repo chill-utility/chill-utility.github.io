@@ -4,7 +4,7 @@ languageName = "Français"
 weight = 1
 
 [params]
-  description = "Gérez votre serveur Discord en un clin d'œil. Découvrez la nouvelle ère de la gestion de communauté avec Chill Utility ! 🚀"
+  description = "Gérez vos serveurs Discord en un clin d'œil. Découvrez la nouvelle ère de la gestion de communauté avec Chill Utility ! 🚀"
   displayName = "FR"
   isoCode = "fr"
   weight = 1
