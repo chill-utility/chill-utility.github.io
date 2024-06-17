@@ -63,7 +63,9 @@ Je rejoins le mouvement
   <div align="center" class="min-w-full min-h-full border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-lg relative backdrop-blur" style="margin: 20px 0;">
     <article class="px-6 py-4 md:flex flex-wrap items-center" style="gap: 0 40px">
       <div class="creative">
-        <i class="creative-icon fa-solid fa-comment-dots"></i>
+        <div class="creative-icon-wrapper">
+          <i class="creative-icon fa-solid fa-comment-dots"></i>
+        </div>
         <h2 class="m-0">Construit avec vous</h2>
       </div>
       <div class="flex-1 homepage-big-ideas-left-text-align flex flex-col">
@@ -76,7 +78,9 @@ Je rejoins le mouvement
   <div align="center" class="min-w-full min-h-full border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-lg relative backdrop-blur" style="margin: 20px 0;">
     <article class="px-6 py-4 md:flex flex-wrap items-center flip-flop-big-idea-article" style="gap: 0 40px">
       <div class="creative">
-        <i class="creative-icon fa-solid fa-microchip"></i>
+        <div class="creative-icon-wrapper">
+          <i class="creative-icon fa-solid fa-microchip"></i>
+        </div>
         <h2 class="m-0">Technologie dernier cri</h2>
       </div>
       <div class="flex-1 homepage-big-ideas-left-text-align">
@@ -99,7 +103,7 @@ Je rejoins le mouvement
 {{< /button >}}
 <p class="mt-2 mb-0 text-sm">⚡ Accès instantané</p>
 
-<h3>Rejoignez-nous dans cette aventure où nous redéfinissons ce qu'un bot Discord peut être.<br/>Redécouvrez ce qu'est la simplicité, sans compromis.</h3>
+<h3>Rejoignez-nous dans cette aventure où nous redéfinissons ce qu'un bot Discord peut être.<br class="mb-5px" />Redécouvrez ce qu'est la simplicité, sans compromis.</h3>
 
 </div>
 

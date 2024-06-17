@@ -1,3 +1,11 @@
+:root {
+  --creative-icon-size: 4rem;
+}
+
+.mb-5px {
+  margin-bottom: 5px;
+}
+
 .logo {
   height: 42px;
   width: 35px;
@@ -27,6 +35,14 @@ span.absolute.not-prose > a {
   justify-content: center;
 }
 
+.creative .creative-icon-wrapper {
+  min-height: var(--creative-icon-size);
+}
+
+.creative .creative-icon {
+  font-size: var(--creative-icon-size);
+}
+
 @media (max-width: 853px) {
   .big-idea-title {
     margin-top: 15px;
@@ -36,10 +52,6 @@ span.absolute.not-prose > a {
   .big-idea-desc {
     text-align: left;
   }
-}
-
-.creative .creative-icon {
-  font-size: 4rem;
 }
 
 @media (min-width: 853px) {

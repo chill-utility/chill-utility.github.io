@@ -63,7 +63,9 @@ Try for free today
   <div align="center" class="min-w-full min-h-full border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-lg relative backdrop-blur" style="margin: 20px 0;">
     <article class="px-6 py-4 md:flex flex-wrap items-center" style="gap: 0 40px">
       <div class="creative">
-        <i class="creative-icon fa-solid fa-comment-dots"></i>
+        <div class="creative-icon-wrapper">
+          <i class="creative-icon fa-solid fa-comment-dots"></i>
+        </div>
         <h2 class="m-0">Community-driven product</h2>
       </div>
       <div class="flex-1 homepage-big-ideas-left-text-align flex flex-col">
@@ -76,7 +78,9 @@ Try for free today
   <div align="center" class="min-w-full min-h-full border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-lg relative backdrop-blur" style="margin: 20px 0;">
     <article class="px-6 py-4 md:flex flex-wrap items-center flip-flop-big-idea-article" style="gap: 0 40px">
       <div class="creative">
-        <i class="creative-icon fa-solid fa-microchip"></i>
+        <div class="creative-icon-wrapper">
+          <i class="creative-icon fa-solid fa-microchip"></i>
+        </div>
         <h2 class="m-0">Cutting-edge Technology</h2>
       </div>
       <div class="flex-1 homepage-big-ideas-left-text-align">
@@ -99,7 +103,7 @@ Try for free today
 {{< /button >}}
 <p class="mt-2 mb-0 text-sm">⚡ Instant access</p>
 
-<h3>Join us on this journey as we redefine what a Discord bot can be.<br/>Discover simplicity, without compromise.</h3>
+<h3>Join us on this journey as we redefine what a Discord bot can be.<br class="mb-5px" />Embrace simplicity, without compromise.</h3>
 
 </div>
 
