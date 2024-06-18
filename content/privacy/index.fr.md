@@ -23,13 +23,26 @@ Les Utilisateurs sont responsables de toutes les données personnelles de tiers 
 
 ## Informations détaillées sur le traitement des données personnelles
 
+### Site
+
 Le site internet ne récolte aucune donnée personnelle à l'heure actuelle.  
 Il s'agit d'un site vitrine, dont le fonctionnement ne dépend d'aucun cookie ni d'aucun outil de suivi.  
 Tout changement éventuel sera indiqué dans une mise à jour de la présente Politique de Confidentialité.
 
 L'intégralité du code source du site est disponible à cette adresse : https://github.com/chill-utility/chill-utility.github.io
 
-🚧 WIP concernant l'application : Détail des intents et des enregistrements en DB
+### Application
+
+#### Données persistées en base de données
+
+- Avancée du compteur.
+- Rôles (ID), données entrées depuis les pop-up.
+- Langue/ID des serveurs.
+- Nombre de membres du serveur.
+- Tout autre configuration faites par vos soins.
+
+
+🚧 WIP concernant l'application : Détail des intents.
 
 ---
 
