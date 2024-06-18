@@ -12,19 +12,18 @@ The GTU constitute the contract between the services offered, hereinafter referr
 
 ## Service presentation and objectives
 
-Chill Utility" services provide access to a range of features in addition to those already available on the Discord platform (Discord Inc.), making it easier to manage your Discord servers and their members. Features can be easily configured through the application.
+"Chill Utility" services provide access to a range of features in addition to those already available on the Discord platform (Discord Inc.), making it easier to manage your Discord servers and their members. Features can be easily configured through the application.
 
-Various features are available on the application, including :
+Various features are available on the application, including:
 
-A level system
-A bump reminder system
-Moderation commands
-Vanity functionality
-A mini-game counter
+- A bump reminder system
+- Moderation commands
+- Vanity functionality
+- A counter mini-game
 
 ## Application access
 
-Access to the application requires installation on the Discord platform (Discord Inc.). Settings can be made directly via the application.
+Access to the application requires installation on the Discord platform (Discord Inc.). Settings can be made via the application.
 
 [For maintenance or breakdown reasons, access to the application may be suspended for a fixed or indefinite period. You can find all the information you need on our Support page.](https://discord.gg/aKfgpbvADh)
 
@@ -57,4 +56,4 @@ The documentation, written by members of the team managing the continuity of the
 
 ---
 
-These terms and conditions were last updated on: Tuesday, June 18, 2024.
+These terms and conditions were last updated on: Wednesday, June 19, 2024.

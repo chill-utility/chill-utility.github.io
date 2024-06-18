@@ -16,7 +16,7 @@ Les CGU constituent le contrat entre les services proposés, ci-après nommé «
 Les services de « Chill Utility » permettent d'accéder à différentes fonctionnalités supplémentaires à celles déjà présentes sur la plateforme Discord (Discord Inc.), facilitant ainsi la gestion de vos serveurs Discord et de leurs membres. Les fonctionnalités peuvent être configurées facilement à travers l'application.
 
 Diverses fonctionnalités sont présentes sur l'application, notamment :
-- Un système de niveaux
+
 - Un système de _bump reminder_
 - Des commandes de modération
 - Une fonctionnalité de _vanity_

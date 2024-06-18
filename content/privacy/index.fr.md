@@ -56,16 +56,16 @@ L'intégralité du code source du site est disponible à cette adresse : https:/
 Les intents Discord sont des règles qui expliquent à Discord quels types de contenus et actions l'application peut voir et utiliser.
 {{< /alert >}}
 
-| Intent           | Cas d'utilisation                                                                                                                              |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Guild Members    | Commandes de modération et statistiques des membres                                                                                            |
-| Message Content  | Mini-jeu du compteur (besoin de lire les messages des utilisateurs pour le déroulement du jeu)                                                 |
-| Guilds           | Informations sur les serveurs Discord (comme la langue préférée de chaque serveur ainsi que leur nom)                                          |
-| Guild Presences  | Fonctionnalité _Vanity_ (permet d'observer le statut des membres afin de leur donner un rôle s'ils contiennent un contenu en particulier       |
-| Guild Moderation | Utilisée pour les bannissements et les exclusions (pour détecter si un membre est déjà sanctionné et pour gérer les bannissements temporaires) |
+| Intent           | Cas d'utilisation                                                                                                                                       |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Guild Members    | Commandes de modération et statistiques des membres                                                                                                     |
+| Message Content  | Mini-jeu du compteur (besoin de lire les messages des utilisateurs pour le déroulement du jeu)                                                          |
+| Guilds           | Informations sur les serveurs Discord (comme la langue préférée de chaque serveur ainsi que leur nom)                                                   |
+| Guild Presences  | Fonctionnalité _Vanity_ (permet d'observer le statut des membres afin de leur donner un rôle si le dit statut contient un contenu en particulier)       |
+| Guild Moderation | Utilisée pour les bannissements et les exclusions (pour détecter si un membre est déjà sanctionné et pour gérer les bannissements temporaires)          |
 
 [Pour plus d'informations techniques, vous pouvez vous référer à la page dédiée de Discord sur les _Gateway Intents_.](https://discord.com/developers/docs/topics/gateway#gateway-intents)
 
 ---
 
-Dernière mise à jour de la présente politique de confidentialité le : mardi 18 juin 2024.
+Dernière mise à jour de la présente politique de confidentialité le : mercredi 19 juin 2024.
