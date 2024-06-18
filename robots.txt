@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chill-utility.github.io/sitemap.xml
