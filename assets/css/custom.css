@@ -12,13 +12,18 @@ html.dark body {
   background-color: var(--bg-color-dark) !important;
 }
 
-.hell {
+.homepage-bg {
+  min-height: 100vh;
+  bottom: 20vw;
+}
+
+.homepage-head-box {
   width: fit-content;
   margin: auto;
   color: white !important;
 }
 
-.hell span > strong {
+.homepage-head-box span > strong {
   color: white !important;
 }
 
@@ -92,6 +97,13 @@ span.absolute.not-prose > a {
 
 .logo {
   padding: 3px;
+}
+
+@media (max-width: 1150px) {
+  .homepage-bg {
+    min-height: 100vh;
+    bottom: 7vh;
+  }
 }
 
 @media (max-width: 853px) {

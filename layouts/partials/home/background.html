@@ -21,13 +21,7 @@
                         {{ end }}
                     {{ end }}
                     {{ if $homepageImage }}
-                    <img class="w-full h-[1000px] object-cover m-0 nozoom" src="{{ $homepageImage.RelPermalink }}" role="presentation">
-                    <div
-                        class="absolute inset-0 h-[1000px] mix-blend-normal">
-                    </div>
-                    <div
-                        class="opacity-60 absolute inset-0 h-[1000px] mix-blend-normal">
-                    </div>
+                    <img class="w-full relative object-cover m-0 nozoom homepage-bg" src="{{ $homepageImage.RelPermalink }}" role="presentation">
                     {{ end }}
                 </div>
                 <div class="w-full relative px-1 py-1 flex flex-col items-center justify-center text-center">

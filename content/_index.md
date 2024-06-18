@@ -8,7 +8,7 @@ images:
 
 # Manage your Discord servers in record time 🚀
 
-<div class="hell text-lg backdrop-blur justify-center">
+<div class="homepage-head-box text-lg backdrop-blur justify-center">
 
   {{< alert cardColor="#4c1d9580" >}}
   **Future with Chill Utility awaits...**  

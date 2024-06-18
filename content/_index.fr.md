@@ -8,7 +8,7 @@ images:
 
 # Gérez vos serveurs Discord en un clin d’œil 🚀
 
-<div class="hell text-lg backdrop-blur justify-center">
+<div class="homepage-head-box text-lg backdrop-blur justify-center">
 
   {{< alert cardColor="#4c1d9580" >}}
   **Le futur est en Chill Utility…**  
