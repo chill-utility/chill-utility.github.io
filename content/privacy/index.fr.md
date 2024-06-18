@@ -6,9 +6,9 @@ slug: 'politique-confidentialite'
 ---
 
 {{< lead >}}
-La présente Politique de Confidentialité encadre l'utilisation et la protection des données personnelles des services de Chill Utility, incluant son site internet et l'application sur la plateforme Discord (Discord Inc.).
+  La présente Politique de Confidentialité encadre l'utilisation et la protection des données personnelles des services de Chill Utility, incluant son site internet et l'application sur la plateforme Discord (Discord Inc.).
 
-Cette politique constitue l'accord contractuel régissant la collecte, l'utilisation et la protection des informations personnelles des « Utilisateurs », qui accèdent aux services proposés par Chill Utility par le biais du site internet ou de l'application. En utilisant nos services, vous consentez expressément à la collecte, à l'utilisation et à la divulgation de vos informations conformément à cette Politique de Confidentialité.
+  Cette politique constitue l'accord contractuel régissant la collecte, l'utilisation et la protection des informations personnelles des « Utilisateurs », qui accèdent aux services proposés par Chill Utility par le biais du site internet ou de l'application. En utilisant nos services, vous consentez expressément à la collecte, à l'utilisation et à la divulgation de vos informations conformément à cette Politique de Confidentialité.
 {{< /lead >}}
 
 ## Données concernées
