@@ -56,4 +56,4 @@ The documentation, written by members of the team managing the continuity of the
 
 ---
 
-These terms and conditions were last updated on: Wednesday, June 19, 2024.
+These GTU were last updated on: Wednesday, June 19, 2024.

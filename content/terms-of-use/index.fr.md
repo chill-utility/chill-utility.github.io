@@ -57,4 +57,4 @@ La documentation, rédigée par les membres de l'équipe gérant la continuité 
 
 ---
 
-Dernière mise à jour des présentes conditions générales d'utilisation le : mardi 18 juin 2024.
+Dernière mise à jour des présentes Conditions Générales d'Utilisation le : mercredi 19 juin 2024.

@@ -40,15 +40,15 @@ L'intégralité du code source du site est disponible à cette adresse : https:/
   - ID du serveur Discord rattaché à la progression du compteur
 - Commande `/config`
   - Données saisies dans les commandes et menus de configuration
-- Serveurs Discord
-  - Langue préférée (configuration des serveurs)
-  - ID des serveurs
-  - Nombre de membres des serveurs
-- Modération
+- Commandes de modération
   - IDs des serveurs Discord attachés aux commandes de modération 
   - IDs des utilisateurs Discord saisis dans les commandes et menus de modération
   - IDs des utilisateurs Discord ayant lancé les actions de modération
   - Raisons des actions de modération précisées dans les commandes et menus de modération
+- Serveurs Discord
+  - Langue préférée (configuration des serveurs)
+  - ID des serveurs
+  - Nombre de membres des serveurs
 
 #### Intents
 
@@ -68,4 +68,4 @@ Les intents Discord sont des règles qui expliquent à Discord quels types de co
 
 ---
 
-Dernière mise à jour de la présente politique de confidentialité le : mercredi 19 juin 2024.
+Dernière mise à jour de la présente Politique de Confidentialité le : mercredi 19 juin 2024.

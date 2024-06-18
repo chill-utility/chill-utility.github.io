@@ -28,7 +28,7 @@ The website does not currently collect any personal data.
 It is a showcase site, which does not rely on cookies or tracking tools.
 Any changes will be indicated in an update to this Privacy Policy.
 
-The full source code of the site is available at this address: https://github.com/chill-utility/chill-utility.github.io
+The full source code of the site is available here: https://github.com/chill-utility/chill-utility.github.io
 
 ### Application
 
@@ -39,15 +39,15 @@ The full source code of the site is available at this address: https://github.co
   - Discord server ID attached to the counter progress
 - `/config` command
   - Data entered in config menus and commands
-- Discord servers
-  - Preferred specified via the servers' configuration
-  - Servers ID
-  - Amount of members on the servers
-- Moderation
+- Moderation commands
   - Discord servers IDs attached to the moderation actions
   - Discord users IDs entered in moderation commands and menus
   - Discord users IDs of the users who has triggered moderation actions
   - Moderation reasons specified in moderation commands and menus
+- Discord servers
+  - Preferred specified via the servers' configuration
+  - Servers ID
+  - Amount of members on the servers
 
 #### Intents
 
@@ -67,4 +67,4 @@ The Discord intents are rules that explain to Discord what types of content and 
 
 ---
 
-These terms and conditions were last updated on: Tuesday, June 18, 2024.
+This Privacy Policy was last updated on: Wednesday, June 19, 2024.
