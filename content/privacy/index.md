@@ -4,4 +4,4 @@ description: Chill Utility privacy policy
 layout: simple
 ---
 
-WIP
+WIP (test)
