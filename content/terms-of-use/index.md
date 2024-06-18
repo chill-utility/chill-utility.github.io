@@ -61,4 +61,4 @@ The documentation, written by members of the team managing the continuity of the
 
 ---
 
-These terms and conditions were last updated on: Monday June 18, 2024.
+These terms and conditions were last updated on: Tuesday, June 18, 2024.

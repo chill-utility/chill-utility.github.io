@@ -35,19 +35,37 @@ L'intégralité du code source du site est disponible à cette adresse : https:/
 
 #### Données persistées en base de données
 
-- Avancée du compteur.
-- Rôles (ID), données entrées depuis les pop-up.
-- Langue/ID des serveurs.
-- Nombre de membres du serveur.
-- Tout autre configuration faites par vos soins.
+- Compteur
+  - Progression du compteur
+  - ID du serveur Discord rattaché à la progression du compteur
+- Commande `/config`
+  - Données saisies dans les commandes et menus de configuration
+- Serveurs Discord
+  - Langue préférée (configuration du serveur)
+  - ID du serveur
+  - Nombre de membres du serveur
+- Modération
+  - IDs des serveurs Discord attachés aux commandes de modération 
+  - IDs des utilisateurs Discord saisis dans les commandes et menus de modération
+  - IDs des utilisateurs Discord ayant lancé les actions de modération
+  - Raisons des actions de modération précisées dans les commandes et menus de modération
 
-#### Intents privilégiés
+#### Intents
 
-- INTENTS DES MEMBRES DU SERVEUR
-- INTENTS DE PRÉSENCE
-- INTENTS DU CONTENU DU MESSAGE
+{{< alert "circle-info" >}}
+Les intents Discord sont des règles qui expliquent à Discord quels types de contenus et actions l'application peut voir et utiliser.
+{{< /alert >}}
 
+| Intent           | Cas d'utilisation                                                                                                                              |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Guild Members    | Commandes de modération et statistiques des membres                                                                                            |
+| Message Content  | Mini-jeu du compteur (besoin de lire les messages des utilisateurs pour le déroulement du jeu)                                                 |
+| Guilds           | Informations sur les serveurs Discord (comme la langue préférée du serveur ainsi que son nom)                                                  |
+| Guild Presences  | Fonctionnalité _Vanity_ (permet d'observer le statut des membres afin de leur donner un rôle s'ils contiennent un contenu en particulier       |
+| Guild Moderation | Utilisée pour les bannissements et les exclusions (pour détecter si un membre est déjà sanctionné et pour gérer les bannissements temporaires) |
+
+[Pour plus d'informations techniques, vous pouvez vous référer à la page dédiée de Discord sur les _Gateway Intents_.](https://discord.com/developers/docs/topics/gateway#gateway-intents)
 
 ---
 
-Dernière mise à jour de la présente politique de confidentialité le : lundi 17 juin 2024.
+Dernière mise à jour de la présente politique de confidentialité le : mardi 18 juin 2024.

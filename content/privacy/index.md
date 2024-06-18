@@ -34,18 +34,37 @@ The full source code of the site is available at this address: https://github.co
 
 #### Data stored in our database
 
-- Counter progress.
-- Roles (IDs), data entered from pop-ups.
-- Server language/ID.
-- Number of server members.
-- Any other configuration you choose.
+- Counter
+  - Counter progress
+  - Discord server ID attached to the counter progress
+- `/config` command
+  - Data entered in config menus and commands
+- Discord servers
+  - Preferred specified via the server's configuration
+  - Server ID
+  - Amount of members
+- Moderation
+  - Discord servers IDs attached to the moderation actions
+  - Discord users IDs entered in moderation commands and menus
+  - Discord users IDs of the users who has triggered moderation actions
+  - Moderation reasons specified in moderation commands and menus
 
-#### Privileged intents
+#### Intents
 
-- SERVER MEMBERS INTENT
-- PRESENCE INTENT
-- MESSAGE CONTENT INTENT
+{{< alert "circle-info" >}}
+The Discord intents are rules that explain to Discord what types of content and actions the application can see and use.
+{{< /alert >}}
+
+| Intent           | Use case                                                                                                     |
+|------------------|--------------------------------------------------------------------------------------------------------------|
+| Guild Members    | Moderation commands and members statistics                                                                   |
+| Message Content  | Counter mini-game (reading users messages to proceed the game)                                               |
+| Guilds           | Discord servers informations (like the preferred locales and servers names)                                  |
+| Guild Presences  | Vanity feature (observing users status to give a role if they match an expected content)                     |
+| Guild Moderation | Used to proceed bans and timeouts (to detect if a member is already sanctioned and to manage temporary bans) |
+
+[For more technical information, you can refer to Discord's dedicated page on _Gateway Intents_.](https://discord.com/developers/docs/topics/gateway#gateway-intents)
 
 ---
 
-These terms and conditions were last updated on: Monday June 18, 2024.
+These terms and conditions were last updated on: Tuesday, June 18, 2024.
