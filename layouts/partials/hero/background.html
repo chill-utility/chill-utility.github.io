@@ -21,12 +21,12 @@
 {{ end -}}
 
 {{ $isParentList := eq (.Scratch.Get "scope") "list"  }}
-{{ $shouldBlur := $.Params.layoutBackgroundBlur | default (or 
-        (and ($.Site.Params.article.layoutBackgroundBlur | default true) (not $isParentList)) 
+{{ $shouldBlur := $.Params.layoutBackgroundBlur | default (or
+        (and ($.Site.Params.article.layoutBackgroundBlur | default true) (not $isParentList))
         (and ($.Site.Params.list.layoutBackgroundBlur | default true) ($isParentList))
     ) }}
-{{ $shouldAddHeaderSpace := $.Params.layoutBackgroundHeaderSpace | default (or 
-        (and ($.Site.Params.article.layoutBackgroundHeaderSpace | default true) (not $isParentList)) 
+{{ $shouldAddHeaderSpace := $.Params.layoutBackgroundHeaderSpace | default (or
+        (and ($.Site.Params.article.layoutBackgroundHeaderSpace | default true) (not $isParentList))
         (and ($.Site.Params.list.layoutBackgroundHeaderSpace | default true) ($isParentList))
     ) }}
 {{- with $featured -}}
@@ -47,11 +47,6 @@
     {{ end }}
 {{ end }}
 
-    <div class="absolute inset-0 mix-blend-normal">
-    </div>
-    <div
-        class="absolute inset-0 opacity-60 mix-blend-normal">
-    </div>
 </div>
 {{ if $shouldBlur | default false }}
 <div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>

@@ -11,7 +11,7 @@ La présente Politique de Confidentialité encadre l'utilisation et la protectio
 Cette politique constitue l'accord contractuel régissant la collecte, l'utilisation et la protection des informations personnelles des « Utilisateurs », qui accèdent aux services proposés par Chill Utility par le biais du site internet ou de l'application. En utilisant nos services, vous consentez expressément à la collecte, à l'utilisation et à la divulgation de vos informations conformément à cette Politique de Confidentialité.
 {{< /lead >}}
 
-## Données concernées
+## Gestion des Données Personnelles (avant-propos)
 
 Des détails complets sur chaque type de données personnelles collectées sont fournis dans les sections dédiées de cette politique de confidentialité. Les données personnelles peuvent être librement fournies par l'Utilisateur ou, dans le cas des données d'utilisation, collectées automatiquement lors de l'utilisation de l'application.
 
@@ -33,7 +33,7 @@ L'intégralité du code source du site est disponible à cette adresse : https:/
 
 ### Application
 
-#### Données persistées en base de données
+#### Données persistées dans la base de données de Chill Utility
 
 - Compteur
   - Progression du compteur
@@ -41,9 +41,9 @@ L'intégralité du code source du site est disponible à cette adresse : https:/
 - Commande `/config`
   - Données saisies dans les commandes et menus de configuration
 - Serveurs Discord
-  - Langue préférée (configuration du serveur)
-  - ID du serveur
-  - Nombre de membres du serveur
+  - Langue préférée (configuration des serveurs)
+  - ID des serveurs
+  - Nombre de membres des serveurs
 - Modération
   - IDs des serveurs Discord attachés aux commandes de modération 
   - IDs des utilisateurs Discord saisis dans les commandes et menus de modération
@@ -60,7 +60,7 @@ Les intents Discord sont des règles qui expliquent à Discord quels types de co
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | Guild Members    | Commandes de modération et statistiques des membres                                                                                            |
 | Message Content  | Mini-jeu du compteur (besoin de lire les messages des utilisateurs pour le déroulement du jeu)                                                 |
-| Guilds           | Informations sur les serveurs Discord (comme la langue préférée du serveur ainsi que son nom)                                                  |
+| Guilds           | Informations sur les serveurs Discord (comme la langue préférée de chaque serveur ainsi que leur nom)                                          |
 | Guild Presences  | Fonctionnalité _Vanity_ (permet d'observer le statut des membres afin de leur donner un rôle s'ils contiennent un contenu en particulier       |
 | Guild Moderation | Utilisée pour les bannissements et les exclusions (pour détecter si un membre est déjà sanctionné et pour gérer les bannissements temporaires) |
 

@@ -10,7 +10,7 @@ This Privacy Policy governs the use and protection of personal data of Chill Uti
 This policy constitutes the contractual agreement governing the collection, use and protection of personal information of "Users", who access the services offered by Chill Utility through the website or the application. By using our services, you expressly consent to the collection, use and disclosure of your information in accordance with this Privacy Policy.
 {{< /lead >}}
 
-## Data concerned
+## Personal Data Management (Overview)
 
 Full details of each type of personal data collected are provided in the dedicated sections of this Privacy Policy. Personal data may be freely provided by the User or, in the case of usage data, collected automatically when using the application.
 
@@ -32,7 +32,7 @@ The full source code of the site is available at this address: https://github.co
 
 ### Application
 
-#### Data stored in our database
+#### Data stored in the Chill Utility's database
 
 - Counter
   - Counter progress
@@ -40,9 +40,9 @@ The full source code of the site is available at this address: https://github.co
 - `/config` command
   - Data entered in config menus and commands
 - Discord servers
-  - Preferred specified via the server's configuration
-  - Server ID
-  - Amount of members
+  - Preferred specified via the servers' configuration
+  - Servers ID
+  - Amount of members on the servers
 - Moderation
   - Discord servers IDs attached to the moderation actions
   - Discord users IDs entered in moderation commands and menus

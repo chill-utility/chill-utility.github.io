@@ -51,7 +51,7 @@ images:
 </div>
 
 {{< button href="https://discord.com/oauth2/authorize?client_id=1225159231523655860" target="_blank" >}}
-Je rejoins le mouvement
+  Je rejoins le mouvement
 {{< /button >}}
 <p class="mt-2 text-sm">⚡ Accès immédiat</p>
 
@@ -88,7 +88,7 @@ Je rejoins le mouvement
   <h2 class="mt-0">Apportons de la valeur à vos serveurs dès aujourd'hui !</h2>
 
   {{< button href="https://discord.com/oauth2/authorize?client_id=1225159231523655860" target="_blank" >}}
-  Je rejoins le mouvement
+    Je rejoins le mouvement
   {{< /button >}}
   <p class="mt-2 mb-0 text-sm">⚡ Accès immédiat</p>
 

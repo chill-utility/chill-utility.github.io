@@ -51,7 +51,7 @@ images:
 </div>
 
 {{< button href="https://discord.com/oauth2/authorize?client_id=1225159231523655860" target="_blank" >}}
-Try for free today
+  Try for free today
 {{< /button >}}
 <p class="mt-2 text-sm">⚡ Instant access</p>
 
@@ -88,7 +88,7 @@ Try for free today
   <h2 class="mt-0">Join Chill Utility project right now!</h2>
 
   {{< button href="https://discord.com/oauth2/authorize?client_id=1225159231523655860" target="_blank" >}}
-  Try for free today
+    Try for free today
   {{< /button >}}
   <p class="mt-2 mb-0 text-sm">⚡ Instant access</p>
 

@@ -26,17 +26,13 @@ Diverses fonctionnalités sont présentes sur l'application, notamment :
 
 L'accès à l'application requiert son installation sur la plateforme Discord (Discord Inc.). Le paramétrage peut se faire directement via l'application.
 
-Pour des raisons de maintenance ou de panne, l'accès à l'application peut être suspendu pour une durée déterminée ou indéterminée. Retrouvez les informations nécessaires à ces coupures directement sur notre Support, à l'adresse suivante : https://discord.gg/aKfgpbvADh
+[Pour des raisons de maintenance ou de panne, l'accès à l'application peut être suspendu pour une durée déterminée ou indéterminée. Retrouvez les informations nécessaires à ces coupures directement sur notre Support.](https://discord.gg/aKfgpbvADh)
 
 L'activité peut être suspendue sans préavis ou justification du Propriétaire.
 
 ## Collecte de données
 
 Suite à la demande du Propriétaire, Discord a permis à l'application d'accéder aux données personnelles ci-après, permettant à Chill Utility d'exécuter correctement ses requêtes directement sur l'application.
-
-L'application a alors accès :
-- Au nom de l'Utilisateur, son avatar et sa bannière
-- Aux informations principales des serveurs sur lesquels l'Utilisateur se trouve
 
 Des détails complets sur chaque type de données personnelles collectées sont fournis dans notre [Politique de confidentialité.](/fr/politique-confidentialite)
 

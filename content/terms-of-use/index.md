@@ -26,7 +26,7 @@ A mini-game counter
 
 Access to the application requires installation on the Discord platform (Discord Inc.). Settings can be made directly via the application.
 
-For maintenance or breakdown reasons, access to the application may be suspended for a fixed or indefinite period. You can find all the information you need on our Support page, at the following address: https://discord.gg/aKfgpbvADh
+[For maintenance or breakdown reasons, access to the application may be suspended for a fixed or indefinite period. You can find all the information you need on our Support page.](https://discord.gg/aKfgpbvADh)
 
 Activity may be suspended without notice or justification from the Owner.
 
@@ -34,11 +34,7 @@ Activity may be suspended without notice or justification from the Owner.
 
 Following the Owner's request, Discord has allowed the application to access the following personal data, enabling Chill Utility to correctly execute its requests directly on the application.
 
-The application then has access to :
-
-the User's name, avatar and banner
-Key information about the servers on which the User is located
-Full details of each type of personal data collected are provided in our [Privacy Policy](https://chill-utility.github.io/fr/politique-confidentialite/).
+Full details of each type of personal data collected are provided in our [Privacy Policy.](https://chill-utility.github.io/fr/politique-confidentialite/)
 
 ## Intellectual property
 
