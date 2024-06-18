@@ -38,6 +38,13 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Debug - List All Files
+        run: |
+          echo "Listing all files and directories from root and home directories"
+          ls -R /home/runner/ || true
+          echo "Listing all files and directories in the project directory"
+          ls -R . || true
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
