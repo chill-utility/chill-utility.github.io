@@ -11,8 +11,8 @@ images:
 <div class="hell text-lg backdrop-blur justify-center">
 
   {{< alert cardColor="#4c1d9580" >}}
-    **Le futur est en Chill Utility…**  
-    **Votre bot et compagnon de confiance pour vos serveurs !**
+  **Le futur est en Chill Utility…**  
+  **Votre bot et compagnon de confiance pour vos serveurs !**
   {{< /alert >}}
 
 </div>
@@ -51,7 +51,7 @@ images:
 </div>
 
 {{< button href="https://discord.com/oauth2/authorize?client_id=1225159231523655860" target="_blank" >}}
-  Je rejoins le mouvement
+Je rejoins le mouvement
 {{< /button >}}
 <p class="mt-2 text-sm">⚡ Accès immédiat</p>
 
@@ -88,7 +88,7 @@ images:
   <h2 class="mt-0">Apportons de la valeur à vos serveurs dès aujourd'hui !</h2>
 
   {{< button href="https://discord.com/oauth2/authorize?client_id=1225159231523655860" target="_blank" >}}
-    Je rejoins le mouvement
+  Je rejoins le mouvement
   {{< /button >}}
   <p class="mt-2 mb-0 text-sm">⚡ Accès immédiat</p>
 

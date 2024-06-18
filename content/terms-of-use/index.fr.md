@@ -6,9 +6,9 @@ slug: 'conditions-generales-utilisation'
 ---
 
 {{< lead >}}
-  Les présentes Conditions Générales d'Utilisation (CGU) encadrent juridiquement l'utilisation des services de Chill Utility, incluant son site internet et l'application sur la plateforme Discord (Discord Inc.).
+Les présentes Conditions Générales d'Utilisation (CGU) encadrent juridiquement l'utilisation des services de Chill Utility, incluant son site internet et l'application sur la plateforme Discord (Discord Inc.).
 
-  Les CGU constituent le contrat entre les services proposés, ci-après nommé « Chill Utility », le « Propriétaire » du projet et l'« Utilisateur », accédant aux services par l'intermédiaire du site internet ou de l'application. L'accès aux services signifie l'acceptation des présentes Conditions Générales d'Utilisation.
+Les CGU constituent le contrat entre les services proposés, ci-après nommé « Chill Utility », le « Propriétaire » du projet et l'« Utilisateur », accédant aux services par l'intermédiaire du site internet ou de l'application. L'accès aux services signifie l'acceptation des présentes Conditions Générales d'Utilisation.
 {{< /lead >}}
 
 ## Présentation et objectifs des services
