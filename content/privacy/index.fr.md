@@ -41,8 +41,12 @@ L'intégralité du code source du site est disponible à cette adresse : https:/
 - Nombre de membres du serveur.
 - Tout autre configuration faites par vos soins.
 
+#### Intents privilégiés
 
-🚧 WIP concernant l'application : Détail des intents.
+- INTENTS DES MEMBRES DU SERVEUR
+- INTENTS DE PRÉSENCE
+- INTENTS DU CONTENU DU MESSAGE
+
 
 ---
 

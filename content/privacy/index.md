@@ -40,4 +40,12 @@ The full source code of the site is available at this address: https://github.co
 - Number of server members.
 - Any other configuration you choose.
 
-🚧 WIP concerning the application: Details of intents.
+#### Privileged intents
+
+- SERVER MEMBERS INTENT
+- PRESENCE INTENT
+- MESSAGE CONTENT INTENT
+
+---
+
+These terms and conditions were last updated on: Monday June 18, 2024.
