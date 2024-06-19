@@ -1,6 +1,6 @@
 ---
 title: Privacy policy
-description: Chill Utility privacy policy
+description: "This Privacy Policy governs the use and protection of personal data of Chill Utility's services, including its website and application on the Discord platform (Discord Inc.)."
 layout: simple
 ---
 

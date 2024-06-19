@@ -1,6 +1,6 @@
 ---
 title: Terms of use
-description: Chill Utility terms of use
+description: "These General Terms of Use (GTU) provide a legal framework for the use of Chill Utility's services, including its website and the application on the Discord platform (Discord Inc.)."
 layout: simple
 ---
 
