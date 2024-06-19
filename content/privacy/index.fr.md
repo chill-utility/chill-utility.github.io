@@ -53,7 +53,7 @@ L'intégralité du code source du site est disponible à cette adresse : https:/
 #### Intents
 
 {{< alert "circle-info" >}}
-Les intents Discord sont des règles qui expliquent à Discord quels types de contenus et actions l'application peut voir et utiliser.
+Les _Intents_ sont des règles qui expliquent à Discord quels types de contenus et actions l'application peut voir et utiliser.
 {{< /alert >}}
 
 | Intent           | Cas d'utilisation                                                                                                                                       |

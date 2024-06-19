@@ -2,6 +2,7 @@
   --creative-icon-size: 4rem;
   --bg-color-light: #fdfdfd;
   --bg-color-dark: #27272a;
+  --secret-sauce-color: #c5e8ed;
 }
 
 html:not(.dark) body {
@@ -10,6 +11,18 @@ html:not(.dark) body {
 
 html.dark body {
   background-color: var(--bg-color-dark) !important;
+}
+
+html.dark *.prose a:not([role="button"]) {
+  color: var(--secret-sauce-color) !important;
+}
+
+html:not(.dark) *.prose a[role="button"] {
+  color: white !important;
+}
+
+html:not(.dark) code {
+  color: var(--tw-prose-links) !important;
 }
 
 .homepage-bg {
@@ -97,6 +110,24 @@ span.absolute.not-prose > a {
 
 .logo {
   padding: 3px;
+}
+
+.text-white {
+  color: white;
+}
+
+@media (hover: hover) {
+  #site-footer a {
+    text-decoration-color: transparent !important;
+    border-bottom: 2px solid transparent !important;
+    transition-delay: 250ms;
+    transition: all 850ms !important;
+  }
+
+  #site-footer a:hover {
+    text-decoration-color: transparent !important;
+    border-bottom: 2px solid var(--secret-sauce-color) !important;
+  }
 }
 
 @media (max-width: 1150px) {

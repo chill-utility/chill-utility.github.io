@@ -10,7 +10,7 @@ images:
 
 <div class="homepage-head-box text-lg backdrop-blur justify-center">
 
-  {{< alert-no-icon cardColor="#4c1d9580" >}}
+  {{< alert-no-icon cardColor="#cc00d380" >}}
   **Future with Chill Utility awaits...**  
   **Step in, meet your new trusted bot companion for your servers!**
   {{< /alert-no-icon >}}
