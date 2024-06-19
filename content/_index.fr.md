@@ -10,10 +10,10 @@ images:
 
 <div class="homepage-head-box text-lg backdrop-blur justify-center">
 
-  {{< homepage-head-msg cardColor="#4c1d9580" >}}
+  {{< alert-no-icon cardColor="#4c1d9580" >}}
   **Le futur est en Chill Utility…**  
   **Votre bot et compagnon de confiance pour vos serveurs !**
-  {{< /homepage-head-msg >}}
+  {{< /alert-no-icon >}}
 
 </div>
 
