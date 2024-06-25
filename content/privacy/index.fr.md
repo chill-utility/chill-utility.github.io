@@ -66,6 +66,10 @@ Les _Intents_ sont des règles qui expliquent à Discord quels types de contenus
 
 [Pour plus d'informations techniques, vous pouvez vous référer à la page dédiée de Discord sur les _Gateway Intents_.](https://discord.com/developers/docs/topics/gateway#gateway-intents)
 
+#### Droit à l'oubli et consultation de données
+
+Pour toute question relative aux données personnelles stockées dans notre base de données, que ce soit pour demander leur suppression dans le cadre du [droit à l'oubli](https://fr.wikipedia.org/wiki/Droit_%C3%A0_l%27oubli) ou pour consulter vos informations, veuillez nous contacter à l'adresse suivante : [chill.lounge03@gmail.com](mailto://chill.lounge03@gmail.com)
+
 ---
 
-Dernière mise à jour de la présente Politique de Confidentialité le : mercredi 19 juin 2024.
+Dernière mise à jour de la présente Politique de Confidentialité le : mardi 25 juin 2024.

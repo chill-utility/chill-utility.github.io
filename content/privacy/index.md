@@ -65,6 +65,10 @@ The Discord intents are rules that explain to Discord what types of content and 
 
 [For more technical information, you can refer to Discord's dedicated page on _Gateway Intents_.](https://discord.com/developers/docs/topics/gateway#gateway-intents)
 
+#### Right to Be Forgotten (RTBF) and Data Consultation
+
+For any inquiries regarding the personal data stored in our database, including requests for deletion under [the right to be forgotten (RTBF)](https://en.wikipedia.org/wiki/Right_to_be_forgotten) or for the consultation of your information, please contact us at the following address: [chill.lounge03@gmail.com](mailto://chill.lounge03@gmail.com)
+
 ---
 
-This Privacy Policy was last updated on: Wednesday, June 19, 2024.
+This Privacy Policy was last updated on: Tuesday, June 25, 2024.
