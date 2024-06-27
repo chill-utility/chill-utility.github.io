@@ -52,7 +52,7 @@ The application cannot guarantee the total security and confidentiality of data.
 
 ## Documentation
 
-The documentation, written by members of the team managing the continuity of the whole project, is a support for the use of the application. These aids will be accessible from the department's website and from the application.
+The documentation, written by members of the team managing the continuity of the whole project, is a support for the use of the application. These aids will be accessible from the website and from the application.
 
 ---
 

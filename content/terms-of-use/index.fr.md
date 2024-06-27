@@ -53,7 +53,7 @@ La garantie totale de la sécurité et la confidentialité des données n'est pa
 
 ## Documentation
 
-La documentation, rédigée par les membres de l'équipe gérant la continuité de l'ensemble du projet, est un support à l'utilisation de l'application. Ces aides seront accessibles depuis le site internet du service et depuis l'application.
+La documentation, rédigée par les membres de l'équipe gérant la continuité de l'ensemble du projet, est un support à l'utilisation de l'application. Ces aides seront accessibles depuis le site et depuis l'application.
 
 ---
 
