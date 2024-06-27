@@ -40,8 +40,8 @@ Des détails complets sur chaque type de données personnelles collectées sont 
 
 L'entièreté du contenu est protégé par des droits d'auteur. Tout le contenu du site et de l'application ne peuvent être reproduits sans autorisation du Propriétaire au préalable. Dans ce cas, toute utilisation à caractère commercial, à des fins publicitaires ou toute activité à caractère lucratif en général est proscrite.
 
-[Le site ainsi que l'application ne font pas partie de Discord, ni de Discord Inc.  
-Discord est une marque déposée de Discord Inc.](https://discord.com/company-information)
+[LE SITE AINSI QUE L'APPLICATION NE FONT PAS PARTIE DE DISCORD, NI DE DISCORD INC.  
+_Discord_ EST UNE MARQUE DÉPOSÉE DE DISCORD INC.](https://discord.com/company-information)
 
 ## Responsabilité
 
@@ -57,4 +57,4 @@ La documentation, rédigée par les membres de l'équipe gérant la continuité 
 
 ---
 
-Dernière mise à jour des présentes Conditions Générales d'Utilisation le : mercredi 19 juin 2024.
+Dernière mise à jour des présentes Conditions Générales d'Utilisation le : jeudi 27 juin 2024.

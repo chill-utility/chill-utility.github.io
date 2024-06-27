@@ -39,8 +39,8 @@ Full details of each type of personal data collected are provided in our [Privac
 
 All content is protected by copyright. All site and application content may not be reproduced without prior authorization from the Owner. In this case, any use for commercial or advertising purposes, or any profit-making activity in general, is prohibited.
 
-[The site and the application are not part of Discord or Discord Inc.  
-Discord is a registered trademark of Discord Inc.](https://discord.com/company-information)
+[THIS WEBSITE AND ITS RELATED APPLICATION ARE NOT PART OF DISCORD OR DISCORD INC.  
+_Discord_ IS A REGISTERED TRADEMARK OF DISCORD INC.](https://discord.com/company-information)
 
 ## Liability
 
@@ -56,4 +56,4 @@ The documentation, written by members of the team managing the continuity of the
 
 ---
 
-These GTU were last updated on: Wednesday, June 19, 2024.
+These GTU were last updated on: Thursday, June 27, 2024.
