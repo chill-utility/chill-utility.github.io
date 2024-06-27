@@ -69,8 +69,11 @@ The Discord intents are rules that explain to Discord what types of content and 
 
 For any inquiries regarding the personal data stored in our database, including requests for deletion under [the right to be forgotten (RTBF)](https://en.wikipedia.org/wiki/Right_to_be_forgotten) or for the consultation of your information, please contact us at the following address: [chill.lounge03@gmail.com](mailto://chill.lounge03@gmail.com)
 
-Please note that to fulfill your request, we will need your Discord ID. Please provide it in all your requests.  
-[Refer to the Discord documentation to find out how to retrieve your Discord ID.](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)
+{{< alert "circle-info" >}}
+Note that to fulfill your request, we will need your Discord ID. Please, provide it in all your requests.
+{{< /alert >}}
+
+[:point_right: Refer to the Discord documentation to find out how to retrieve your Discord ID.](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)
 
 ---
 
