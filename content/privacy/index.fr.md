@@ -71,7 +71,7 @@ Les _Intents_ sont des règles qui expliquent à Discord quels types de contenus
 Pour toute question relative aux données personnelles stockées dans notre base de données, que ce soit pour demander leur suppression dans le cadre du [droit à l'oubli](https://fr.wikipedia.org/wiki/Droit_%C3%A0_l%27oubli) ou pour simplement consulter vos informations, veuillez nous contacter à l'adresse suivante : [chill.lounge03@gmail.com](mailto://chill.lounge03@gmail.com)
 
 {{< alert "circle-info" >}}
-Notez que pour satisfaire votre demande, nous aurons besoin de votre ID Discord. Merci de nous le fournir systématiquement.
+Notez que pour satisfaire votre demande, nous aurons besoin de votre ID Discord. Merci de nous le fournir systématiquement lorsque vous nous contactez à ce sujet.
 {{< /alert >}}
 
 [:point_right: Veuillez vous référer à la documentation de Discord pour savoir comment obtenir votre ID Discord.](https://support.discord.com/hc/fr/articles/206346498-O%C3%B9-trouver-l-ID-de-mon-compte-utilisateur-serveur-message)
