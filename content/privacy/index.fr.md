@@ -66,6 +66,22 @@ Les _Intents_ sont des règles qui expliquent à Discord quels types de contenus
 
 [Pour plus d'informations techniques, vous pouvez vous référer à la page dédiée de Discord sur les _Gateway Intents_.](https://discord.com/developers/docs/topics/gateway#gateway-intents)
 
+#### Permissions
+
+{{< alert "circle-info" >}}
+Les _Permissions_ sont les droits que vous donnez au bot sur votre serveur.
+{{< /alert >}}
+
+| Permission                              | Cas d'utilisation                                                                                                                                                                                                                              |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bannir des membres                      | Commandes de modération relatives au bannissement                                                                                                                                                                                              |
+| Expulser des membres                    | Commandes de modération relatives au kick (expulsion)                                                                                                                                                                                          |
+| Exclure temporairement des membres      | Commandes de modération relatives au mute (exclusion)                                                                                                                                                                                          |
+| Envoyer des messages                    | Tout ce qui concerne l'envoi de messages de la part du bot sur votre serveur                                                                                                                                                                   |
+| Utiliser des émojis externes            | Permet au bot de décorer certains menus avec nos propres émojis                                                                                                                                                                                |
+| Utiliser les commandes de l'application | Permet l'utilisation des "Slash commands" (comme `/help`)                                                                                                                                                                                      |
+| Voir les logs du serveur                | Permet des optimisations internes au bot. Aucun de ces logs n'est stocké dans nos bases de données. En autorisant cette permission, vous ne faites rien de plus que de contribuer au meilleur fonctionnement du bot sur votre propre serveur ! |
+
 #### Droit à l'oubli et consultation de données
 
 Pour toute question relative aux données personnelles stockées dans notre base de données, que ce soit pour demander leur suppression dans le cadre du [droit à l'oubli](https://fr.wikipedia.org/wiki/Droit_%C3%A0_l%27oubli) ou pour simplement consulter vos informations, veuillez nous contacter à l'adresse suivante : [chill.lounge03@gmail.com](mailto://chill.lounge03@gmail.com)
@@ -78,4 +94,4 @@ Notez que pour satisfaire votre demande, nous aurons besoin de votre ID d'utilis
 
 ---
 
-Dernière mise à jour de la présente Politique de Confidentialité le : jeudi 27 juin 2024.
+Dernière mise à jour de la présente Politique de Confidentialité le : jeudi 4 juillet 2024.

@@ -65,6 +65,22 @@ The Discord intents are rules that explain to Discord what types of content and 
 
 [For more technical information, you can refer to Discord's dedicated page on _Gateway Intents_.](https://discord.com/developers/docs/topics/gateway#gateway-intents)
 
+#### Permissions
+
+{{< alert "circle-info" >}}
+Permissions are the rights you grant to the bot on your server.
+{{< /alert >}}
+
+| Permission               | Use Case                                                                                                                                                                                                 |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ban Members              | Moderation commands related to banning members                                                                                                                                                           |
+| Kick Members             | Moderation commands related to kicking (expelling) members                                                                                                                                               |
+| Temporarily Mute Members | Moderation commands related to muting members                                                                                                                                                            |
+| Send Messages            | Anything involving sending messages from the bot on your server                                                                                                                                          |
+| Use External Emojis      | Allows the bot to decorate certain menus with our own custom emojis                                                                                                                                      |
+| Use Application Commands | Enables the use of "Slash commands" (such as `/help`)                                                                                                                                                    |
+| View Server Logs         | Allows internal optimizations for the bot. None of these logs are stored in our databases. By granting this permission, you are simply contributing to the better functioning of the bot on your server! |
+
 #### Right to Be Forgotten (RTBF) and Data Consultation
 
 For any inquiries regarding the personal data stored in our database, including requests for deletion under [the right to be forgotten (RTBF)](https://en.wikipedia.org/wiki/Right_to_be_forgotten) or for the consultation of your information, please contact us at the following address: [chill.lounge03@gmail.com](mailto://chill.lounge03@gmail.com)
@@ -77,4 +93,4 @@ Note that to fulfill your request, we will need your Discord User ID. Please, pr
 
 ---
 
-This Privacy Policy was last updated on: Thursday, June 27, 2024.
+This Privacy Policy was last updated on: Thursday, July 4, 2024.
