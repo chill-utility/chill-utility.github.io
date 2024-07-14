@@ -33,7 +33,7 @@ L'intégralité du code source du site est disponible à cette adresse : https:/
 
 ### Application
 
-#### Données persistées dans la base de données de Chill Utility
+#### Données enregistrées dans la base de données de Chill Utility
 
 - Compteur
   - Progression du compteur
@@ -77,7 +77,7 @@ Les _Permissions_ sont les droits que vous donnez au bot sur votre serveur.
 | Bannir des membres                      | Commandes de modération relatives au bannissement                                                                                                                                                                                              |
 | Expulser des membres                    | Commandes de modération relatives au kick (expulsion)                                                                                                                                                                                          |
 | Exclure temporairement des membres      | Commandes de modération relatives au mute (exclusion)                                                                                                                                                                                          |
-| Gérer le serveur                        | Meilleure détection des paramètres du serveur (lecture seule)                                                                                                                                                                                  |
+| Gérer le serveur                        | Meilleure détection des paramètres du serveur (lecture seule, données non enregistrées dans nos bases de données)                                                                                                                              |
 | Envoyer des messages                    | Tout ce qui concerne l'envoi de messages de la part du bot sur votre serveur                                                                                                                                                                   |
 | Utiliser des émojis externes            | Permet au bot de décorer certains menus avec nos propres émojis                                                                                                                                                                                |
 | Utiliser les commandes de l'application | Permet l'utilisation des « Slash commands » (comme `/help`)                                                                                                                                                                                    |
