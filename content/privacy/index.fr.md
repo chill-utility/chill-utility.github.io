@@ -77,6 +77,7 @@ Les _Permissions_ sont les droits que vous donnez au bot sur votre serveur.
 | Bannir des membres                      | Commandes de modération relatives au bannissement                                                                                                                                                                                              |
 | Expulser des membres                    | Commandes de modération relatives au kick (expulsion)                                                                                                                                                                                          |
 | Exclure temporairement des membres      | Commandes de modération relatives au mute (exclusion)                                                                                                                                                                                          |
+| Gérer le serveur                        | Meilleure détection des paramètres du serveur (lecture seule)                                                                                                                                                                                  |
 | Envoyer des messages                    | Tout ce qui concerne l'envoi de messages de la part du bot sur votre serveur                                                                                                                                                                   |
 | Utiliser des émojis externes            | Permet au bot de décorer certains menus avec nos propres émojis                                                                                                                                                                                |
 | Utiliser les commandes de l'application | Permet l'utilisation des « Slash commands » (comme `/help`)                                                                                                                                                                                    |
@@ -94,4 +95,4 @@ Notez que pour satisfaire votre demande, nous aurons besoin de votre ID d'utilis
 
 ---
 
-Dernière mise à jour de la présente Politique de Confidentialité le : jeudi 4 juillet 2024.
+Dernière mise à jour de la présente Politique de Confidentialité le : dimanche 14 juillet 2024.

@@ -76,6 +76,7 @@ Permissions are the rights you grant to the bot on your server.
 | Ban Members              | Moderation commands related to banning members                                                                                                                                                           |
 | Kick Members             | Moderation commands related to kicking (expelling) members                                                                                                                                               |
 | Temporarily Mute Members | Moderation commands related to muting members                                                                                                                                                            |
+| Manage Server            | Better detection of server settings (read-only)                                                                                                                                                          |
 | Send Messages            | Anything involving sending messages from the bot on your server                                                                                                                                          |
 | Use External Emojis      | Allows the bot to decorate certain menus with our own custom emojis                                                                                                                                      |
 | Use Application Commands | Enables the use of "Slash commands" (such as `/help`)                                                                                                                                                    |
@@ -93,4 +94,4 @@ Note that to fulfill your request, we will need your Discord User ID. Please, pr
 
 ---
 
-This Privacy Policy was last updated on: Thursday, July 4, 2024.
+This Privacy Policy was last updated on: Sunday, July 14, 2024.
