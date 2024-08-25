@@ -25,7 +25,7 @@ Various features are available on the application, including:
 
 Access to the application requires installation on the Discord platform (Discord Inc.). Settings can be made via the application.
 
-[For maintenance or breakdown reasons, access to the application may be suspended for a fixed or indefinite period. You can find all the information you need on our Support page.](https://discord.gg/aKfgpbvADh)
+[For maintenance or breakdown reasons, access to the application may be suspended for a fixed or indefinite period. You can find all the information you need on our Support page.](https://discord.gg/mXnTPtZTCd)
 
 Activity may be suspended without notice or justification from the Owner.
 
