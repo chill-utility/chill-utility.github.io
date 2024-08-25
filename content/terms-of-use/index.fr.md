@@ -26,7 +26,7 @@ Diverses fonctionnalités sont présentes sur l'application, notamment :
 
 L'accès à l'application requiert son installation sur la plateforme Discord (Discord Inc.). Le paramétrage peut se faire directement via l'application.
 
-[Pour des raisons de maintenance ou de panne, l'accès à l'application peut être suspendu pour une durée déterminée ou indéterminée. Retrouvez les informations nécessaires à ces coupures directement sur notre Support.](https://discord.gg/aKfgpbvADh)
+[Pour des raisons de maintenance ou de panne, l'accès à l'application peut être suspendu pour une durée déterminée ou indéterminée. Retrouvez les informations nécessaires à ces coupures directement sur notre Support.](https://discord.gg/mXnTPtZTCd)
 
 L'activité peut être suspendue sans préavis ou justification du Propriétaire.
 
